@@ -10,6 +10,7 @@ def prime?(num)
         bool = true
       end
     end
+    i += 1
   end
   return bool
 end
